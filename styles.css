@@ -4,7 +4,7 @@
   height: 200px;
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
-  gap: 0; /* Optional: no spacing between items */
+  /* gap: 0; /* Optional: no spacing between items */ */
 }
 
 /* Your CSS Code here. */
